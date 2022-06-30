@@ -1,1 +1,1 @@
-# AayushProfileWebsite.github.io
+# AayushProfileWebsite
